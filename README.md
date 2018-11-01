@@ -10,4 +10,4 @@ Make it easier to create a JS project.
 
 See more in the Wiki.
 
-####Sorry for my poor English,I can't explain it in detail.
+#### Sorry for my poor English,I can't explain it in detail.
